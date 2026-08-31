@@ -1,4 +1,4 @@
-A console bases Library management system in C++ that practices Object orientated programming, STL(vectors), references, const correctness and exception handling.
+A console based Library management system in C++ that practices Object orientated programming, STL(vectors), references, const correctness and exception handling.
 ##Features: Add a book, Search Book, borrow book, return book, remove book, validate book information,  handle invalid operations using exception handling, Validate menu choices.
 ##OOPs concepts demonstrated: Objects and classes, Constructors, Encapsulation, STL(vectors and string), references, const correctness, Exception Handling.
 ##Technologies used: C++, Standard template library, Visual Studio code, Git & Github.
